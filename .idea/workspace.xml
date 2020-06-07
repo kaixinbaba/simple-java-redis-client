@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3abcf524-61b1-413b-b0c6-bc566dc66188" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/develop/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/develop/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cwpeKxZmzg4LUuYzaKeaB255CT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.SimpleRedisClientTest.mget">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kaixinbaba.MainTest" />
+      <module name="simple-java-redis-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kaixinbaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleRedisClientTest.incr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-java-redis-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kaixinbaba.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.kaixinbaba.client" />
+      <option name="MAIN_CLASS_NAME" value="io.github.kaixinbaba.client.SimpleRedisClientTest" />
+      <option name="METHOD_NAME" value="incr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleRedisClientTest.mget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-java-redis-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kaixinbaba.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.kaixinbaba.client" />
+      <option name="MAIN_CLASS_NAME" value="io.github.kaixinbaba.client.SimpleRedisClientTest" />
+      <option name="METHOD_NAME" value="mget" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleRedisClientTest.mset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-java-redis-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kaixinbaba.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.kaixinbaba.client" />
+      <option name="MAIN_CLASS_NAME" value="io.github.kaixinbaba.client.SimpleRedisClientTest" />
+      <option name="METHOD_NAME" value="mset" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SimpleRedisClientTest.incr" />
+      <item itemvalue="JUnit.SimpleRedisClientTest.mset" />
+      <item itemvalue="JUnit.SimpleRedisClientTest.mget" />
+      <item itemvalue="应用程序.MainTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleRedisClientTest.mget" />
+        <item itemvalue="JUnit.SimpleRedisClientTest.mset" />
+        <item itemvalue="JUnit.SimpleRedisClientTest.incr" />
+        <item itemvalue="应用程序.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3abcf524-61b1-413b-b0c6-bc566dc66188" name="默认的" comment="" />
+      <created>1591449603699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591449603699</updated>
+      <workItem from="1591449605099" duration="6042000" />
+      <workItem from="1591536338798" duration="717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="316" y="70" key="#SimpleRedisClientTest.incr" timestamp="1591454296863">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="316" y="70" key="#SimpleRedisClientTest.incr/0.0.1440.900@0.0.1440.900" timestamp="1591454296863" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591454139767">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1591454139767" />
+    <state x="527" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1591452445859">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="527" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591452445859" />
+    <state x="552" y="184" key="#com.intellij.ide.util.MemberChooser/39.23.1401.877@39.23.1401.877" timestamp="1591450097646" />
+    <state x="227" y="43" key="#项目结构" timestamp="1591449919470">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="227" y="43" key="#项目结构/39.23.1401.877@39.23.1401.877" timestamp="1591449919470" />
+    <state width="1398" height="178" key="GridCell.Tab.0.bottom" timestamp="1591492687263">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591492687263" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1591453552703" />
+    <state width="1398" height="178" key="GridCell.Tab.0.center" timestamp="1591492687260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591492687260" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1591453552701" />
+    <state width="1398" height="178" key="GridCell.Tab.0.left" timestamp="1591492687260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591492687260" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1591453552701" />
+    <state width="1398" height="178" key="GridCell.Tab.0.right" timestamp="1591492687261">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591492687261" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1591453552702" />
+    <state width="1398" height="178" key="GridCell.Tab.1.bottom" timestamp="1591492687266">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591492687266" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/41.23.1399.877@41.23.1399.877" timestamp="1591453553268" />
+    <state width="1398" height="178" key="GridCell.Tab.1.center" timestamp="1591492687264">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591492687264" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/41.23.1399.877@41.23.1399.877" timestamp="1591453553267" />
+    <state width="1398" height="178" key="GridCell.Tab.1.left" timestamp="1591492687264">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591492687264" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/41.23.1399.877@41.23.1399.877" timestamp="1591453553266" />
+    <state width="1398" height="178" key="GridCell.Tab.1.right" timestamp="1591492687265">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="178" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591492687265" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/41.23.1399.877@41.23.1399.877" timestamp="1591453553268" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1591453522402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591453522402" />
+    <state width="694" height="438" key="XDebugger.FullValuePopup" timestamp="1591454032477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="694" height="438" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1591454032477" />
+    <state x="262" y="186" width="916" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591454885298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="262" y="186" width="916" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1591454885298" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1591453895709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591453895709" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/github/kaixinbaba/protocol/SocketRESPWriter.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
